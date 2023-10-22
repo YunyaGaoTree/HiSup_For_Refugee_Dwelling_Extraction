@@ -6,6 +6,9 @@
 
 (Under construction, updated on 22, Octorber, 2023)
 
+### Pretrained models can be downloaded through:
+https://drive.google.com/drive/folders/1A4Lm_XFEVn2UNF-kn7JqYz1Sc5gDgxWQ?usp=sharing
+
 ### Acknowledgement
 HiSup: Accurate polygonal mapping of buildings in satellite imagery with hierarchical supervision
 Bowen Xu*, Jiakun Xu*, Nan Xue† and Gui-Song Xia† 
